@@ -1,0 +1,86 @@
+h2 
+{
+    color:#77AADD;
+}
+
+body 
+{
+    color : white;
+    
+}
+li
+{ 
+    color :#77AADD;
+}
+
+.haut
+{
+   margin: 2px 2px 2px 2px;
+   color: #77AADD;
+   height: 10%;
+ 
+}
+
+.gauche
+{
+float:left;
+width:18%; 
+background-color:white;
+height:100%;
+}
+ 
+.droite
+{
+float:right;
+width:80%; 
+background-color: #77AADD;
+}
+
+.bas
+ {
+     padding-left : 20px;
+     padding-bottom: 20px;
+     width: 20%;
+ }
+ 
+.carre
+ {
+     background-color:  #77AADD;
+     width: 80%;
+     color:white;
+     padding-left: 40px;
+     padding-top: 10px;
+ }
+
+.label.titre
+{
+     display:block;
+     width:20%;
+}
+    
+
+.zone 
+{ 
+    width : 30car ; 
+    float : left; 
+}
+
+.titre 
+{ 
+    width : 180px ;
+    clear:left;
+    float:left; 
+}
+
+.formdesign 
+{
+    box-sizing: content-box;
+}
+
+#infosUtil {
+ font-family:Verdana,sans-serif;
+ font-size: 0.8em;
+ width: 95%;
+ background-color: wheat ;
+ color: #77AADD;
+} 
